@@ -9,3 +9,5 @@ W20 index of projects
 | Sunil | [arnav](https://github.com/CCS-1L-F19/arnav) | Augmented Reality Interface for Navigation|
 | Adrie, Joseph, Nathan  | [simultanio](https://github.com/CCS-1L-F19/simultanio) | Real Time Strategy Game |
 | Vincent | [esp32-cam-driver](https://github.com/argus-xr/esp32-cam-driver) | Open Source XR Tracking|
+| Jake | [physical-modelling-synthesis](https://github.com/CCS-1L-F19/physical-modelling-synthesis) | Physical Modeling Synthesis|
+| Marianne | [multi-access-key](https://github.com/CCS-1L-F19/multi-access-key) | Multi-Access Key | 
