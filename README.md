@@ -10,4 +10,4 @@ W20 index of projects
 | Jack |  []() | [MuseScore](https://github.com/CCS-1L-F19/MuseScore) | MuseScore (open source music editor)|
 | Marianne |  []() | [multi-access-key](https://github.com/CCS-1L-F19/multi-access-key) | Multi-Access Key | 
 | Jake | []() | [physical-modelling-synthesis](https://github.com/CCS-1L-F19/physical-modelling-synthesis) | Physical Modeling Synthesis|
-| Adrie, Joseph, Nathan  | []()  | [simultanio](https://github.com/CCS-1L-F19/simultanio) | Real Time Strategy Game |
+| Adrie, Joseph, Nathan  | [kanban](https://github.com/CCS-1L-F19/simultanio/projects/1)  | [simultanio](https://github.com/CCS-1L-F19/simultanio) | Real Time Strategy Game |
