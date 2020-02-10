@@ -9,5 +9,5 @@ W20 index of projects
 | Vincent | [kanban](https://github.com/argus-xr/esp32-cam-driver/projects/1) | [esp32-cam-driver](https://github.com/argus-xr/esp32-cam-driver) | Open Source XR Tracking|
 | Jack |  [kanban](https://github.com/CCS-1L-F19/MuseScore/projects/1) | [MuseScore](https://github.com/CCS-1L-F19/MuseScore) | MuseScore (open source music editor)|
 | Marianne |  [kanban](https://github.com/CCS-1L-F19/multi-access-key/projects/1) | [multi-access-key](https://github.com/CCS-1L-F19/multi-access-key) | Multi-Access Key | 
-| Jake | []() | [physical-modelling-synthesis](https://github.com/CCS-1L-F19/physical-modelling-synthesis) | Physical Modeling Synthesis|
+| Jake | [kanban](https://github.com/CCS-1L-F19/physical-modelling-synthesis/projects/1) | [physical-modelling-synthesis](https://github.com/CCS-1L-F19/physical-modelling-synthesis) | Physical Modeling Synthesis|
 | Adrie, Joseph, Nathan  | [kanban](https://github.com/CCS-1L-F19/simultanio/projects/1)  | [simultanio](https://github.com/CCS-1L-F19/simultanio) | Real Time Strategy Game |
