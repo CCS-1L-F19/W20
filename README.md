@@ -3,7 +3,7 @@ W20 index of projects
 
 | Name | Kanban |Repo | Description|
 |------|------|------|------------|
-| Sunil | | [arnav](https://github.com/CCS-1L-F19/arnav) | Augmented Reality Interface for Navigation|
+| Sunil | [kanban](https://github.com/CCS-1L-F19/arnav/projects/2) | [arnav](https://github.com/CCS-1L-F19/arnav) | Augmented Reality Interface for Navigation|
 | Faiz, Hari |  | [DrDocs Github Org](https://github.com/DrDocx) | Patient Info Manager |
 | Liam |  | [Demiurge](https://github.com/alphamodder/desertofthorns) | Persistent Streamable Worlds for Unity  |
 | Vincent |  | [esp32-cam-driver](https://github.com/argus-xr/esp32-cam-driver) | Open Source XR Tracking|
